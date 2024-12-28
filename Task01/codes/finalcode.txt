@@ -1,1 +1,11 @@
+Part 1 
+aHR0cHM6Ly9naX
+Part 2
+aXNzdWVwYXNzLg
+Part 3
+Uh1bnRzbWFuNC9U
+Part 4
+aGVGaW5hbFNwZWxs
 
+Final code
+aHR0cHM6Ly9naXaXNzdWVwYXNzLgUh1bnRzbWFuNC9UaGVGaW5hbFNwZWxs
