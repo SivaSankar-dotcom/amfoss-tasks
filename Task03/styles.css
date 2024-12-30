@@ -1,0 +1,84 @@
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  text-shadow: 3px 0 #DA0463;
+  font-family: "Rubik Vinyl", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+button.w {
+  background-color: #FF5733; /* Bright Orange */
+  box-shadow: 10px 5px 5px red;
+}
+
+button.a {
+  background-color: #33FF57; /* Bright Green */
+  box-shadow: 10px 5px 5px red;
+}
+
+button.s {
+  background-color: #3357FF; /* Bright Blue */
+  box-shadow: 10px 5px 5px red;
+}
+
+button.d {
+  background-color: #FF33A1; /* Bright Pink */
+  box-shadow: 10px 5px 5px red;
+}
+
+button.j {
+  background-color: #FFC300; /* Bright Yellow */
+  box-shadow: 10px 5px 5px red;
+}
+
+button.k {
+  background-color: #900C3F; /* Deep Red */
+  box-shadow: 10px 5px 5px red;
+}
+
+button.l {
+  background-color: #581845; /* Deep Purple */
+  box-shadow: 10px 5px 5px red;
+}
+
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+  font-family: "Agdasima", serif;
+}
